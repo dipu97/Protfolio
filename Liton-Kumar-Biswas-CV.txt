@@ -1,0 +1,36 @@
+Liton Kumar Biswas
+Software Engineer
+
+Email: litonbiswas1997@gmail.com
+Phone: +8801771974774
+Location: Mirpur, Dhaka, Bangladesh
+
+Professional Summary
+Software Engineer specializing in Python programming and proficient in creating high-performing and secure applications using Django. Well-versed in designing REST APIs and securing them through advanced authentication mechanisms like JWT, OAuth, and RBAC. Also adept at working with databases such as PostgreSQL and implementing frontend features into an application. Passionate about clean architecture, performance improvements, and quality, maintainable software solutions. Demonstrates strong ability to rapidly learn and adapt to new programming languages, frameworks, and emerging technologies.
+
+Experience
+Software Engineer, Ubique
+- Developed and maintained scalable web applications using modern programming languages and frameworks.
+- Optimized code performance, fixed bugs, and improved system reliability.
+- Participated in code reviews and followed best practices for clean, efficient development.
+- Built and integrated front-end interfaces with back-end APIs to deliver complete full-stack solutions.
+- Managed databases, handled server-side logic, and ensured smooth deployment of web applications.
+- Implemented responsive designs and ensured cross-browser compatibility for seamless user experience.
+
+Education
+B.Sc in Software Engineering, Daffodil International University
+- Covered software development, algorithms, data structures, operating systems, computer architecture, software security, ethics, legal principles, and cyber laws.
+
+Higher Secondary Certificate, Khoksa College
+- Science group.
+
+Secondary School Certificate, Khoksa Janipur Pilot Secondary School
+
+Skills
+- Python
+- JavaScript
+- React
+- Django
+- MySQL
+- PostgreSQL
+- Web Development
