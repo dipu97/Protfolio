@@ -9,6 +9,7 @@ import {
   Clapperboard,
   Download,
   Facebook,
+  Github,
   Gamepad2,
   Home,
   Instagram,
@@ -367,8 +368,15 @@ const App = () => {
             })}
           </nav>
           <div className="flex h-32 flex-col items-center justify-center gap-2 border-t border-white/8 text-center">
-            <span className="text-2xl tracking-[0.4em] text-white/90">.....</span>
-            <span className="text-sm font-semibold tracking-[0.18em] text-white/80">Sound</span>
+           <a
+  href="https://github.com/dipu97"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-2 hover:opacity-80 transition"
+>
+  <Github className="w-6 h-6 text-white" />
+  
+</a>
           </div>
         </aside>
 
